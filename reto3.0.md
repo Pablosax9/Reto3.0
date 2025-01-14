@@ -1,5 +1,5 @@
 # Reto.3.0
-Repositorio:
+Repositorio: https://github.com/Pablosax9/Reto3.0.git
 1. Crea un Webcomponent que muestre un «Hola mundo» por pantalla y al clicar en él, muestre un alert «Hola mundo».
 2. Crear un contador con Webcomponets. Dos botones y un input, al hacer click en los botones, aumentamos el valor en el input.
 3. Crea un Custom Element personalizado que contenga las siguientes caracteristicas:
